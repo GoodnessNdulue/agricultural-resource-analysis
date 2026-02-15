@@ -100,8 +100,7 @@ Built an interactive Power BI dashboard analyzing **1,350 tons of farm yield**, 
 
 ## 📂 Project Files
 
-- **Dashboard File:** [farm_resource_dashboard.pbix](dashboard/farm_resource_dashboard.pbix)
-- **Dashboard Screenshot:** [View Dashboard](dashboard/farm_dashboard_screenshot.png)
+- **Dashboard Screenshot:** [View Dashboard](https://github.com/GoodnessNdulue/agricultural-resource-analysis/blob/main/Farm%20Report%20Analysis.png)
 - **Data Files:** Available upon request (anonymized agricultural data)
 
 ---
