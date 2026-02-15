@@ -1,7 +1,5 @@
 # Agricultural Resource Management Dashboard
 
-![Dashboard Preview](dashboard/farm_dashboard_screenshot.png)
-
 ## 📌 Project Overview
 
 Built an interactive Power BI dashboard analyzing **1,350 tons of farm yield**, tracking water usage (2.84M cubic meters), fertilizer (245.27 units), and pesticide consumption (119.90 units) across **9 crop types** and **5 soil types**.
